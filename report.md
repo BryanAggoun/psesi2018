@@ -53,6 +53,7 @@ Nous commençons ce projet en disposant des outils suivants :
  - Un capteur à ultrasons et un servomoteur pour l’orienter
  - Une carte Arduino.
 
+
 [[[ ici photos de chacune des pièces fournies ]]]
 
 Au départ, le véhicule ne possède aucune information sur le terrain.
