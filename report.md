@@ -69,6 +69,10 @@ Dans notre cas, l’objectif sera le suivant :
  2. Dans le cas où le résultat de l’étude est positif, la réalisation d’un prototype fonctionnel.
  3. Dans le cas d'un résultat d'étude négatif, proposer de nouvelles solutions pour contourner les problèmes rencontrés (ajout d'un nouveau capteur, choix d'une microcontrolleur plus adapté etc.).
 
+Voici un schéma simplifié de notre voiture autonome :
+
+![Schéma voiture autonome](./schema-voiture.png)
+
 Problématique
 --------------------------------------------------------------------------------
 
