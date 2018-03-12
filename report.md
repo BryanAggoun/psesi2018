@@ -368,10 +368,6 @@ pour faire en sorte que toutes les actions gérées par les autres taches soient
  * Lorsque la tache Cartographie veut modifier la vitesse du véhicule, elle passe la main au thread Gestion des roues en lui donnant la vitesse voulue.
  * Quand à la communication avec le PC, la tache Cartographie l'appelle lorsqu'ele veut envoyer un message ou lorsqu'elle a été prévenue par interruption qu'un message a été reçu et veut le lire.
 
-Le schema ci-dessous illustre un exemple d'ordonnancement des taches au cours du temps.
-
-[[[ ici chronogramme exemple de l'ordonnancement au cours du temps ]]]
-
 Calendrier et répartition des taches
 --------------------------------------------------------------------------------
 
